@@ -20,7 +20,7 @@ else
 	echo "sym: $sym_folder";
 	echo
 	
-	pushd "$1/include/themes" > /dev/nul 2>&1;
+	pushd "$1/include/themes" > /dev/null 2>&1;
 	
 	cur_folder=$(pwd)
 	if [[ $cur_folder != $tar_folder ]]; then

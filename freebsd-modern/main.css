@@ -622,7 +622,7 @@ label {
 }
 
 .cactiGraphPageHeadBackdrop {
-	background: transparent url("./images/cacti_logo.svg") no-repeat scroll left 40% / 380px auto;
+	background: transparent url("./images/freebsd.png") no-repeat scroll left 40% / 380px auto;
 	padding-bottom: 0px;
 	float:right;
 	width:400px;
@@ -634,7 +634,7 @@ label {
 }
 
 .cactiConsolePageHeadBackdrop {
-	background: transparent url("./images/cacti_logo.svg") no-repeat scroll left 40% / 380px auto;
+	background: transparent url("./images/freebsd.png") no-repeat scroll left 40% / 380px auto;
 	padding-bottom:0px;
 	float:right;
 	width:400px;
@@ -818,7 +818,7 @@ ul#breadcrumbs {
 }
 
 .cactiLogo {
-	background: #efefef url('./images/cacti_logo.svg') no-repeat 30px;
+	background: #efefef url('./images/freebsd.png') no-repeat 30px;
 	display:block;
 	cursor:pointer;
 	padding-bottom:160px;
@@ -858,7 +858,7 @@ ul#breadcrumbs {
 .cactiLoginLogo, .cactiLogoutLogo {
 	position:relative;
 	float:right;
-	background: transparent url('./images/cacti_logo.svg') no-repeat center;
+	background: transparent url('./images/freebsd.png') no-repeat center;
 	width:120px;
 	height:148px;
 	z-index:2;
@@ -1809,7 +1809,7 @@ td#tabs {
 }
 
 .cactiGraphHeaderBackground {
-	background: transparent url("./images/cacti_logo.svg") no-repeat scroll left 10% / 380px auto;
+	background: transparent url("./images/freebsd.png") no-repeat scroll left 10% / 380px auto;
 	height: 35px;
 	width:500px;
 	float:right;

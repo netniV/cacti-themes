@@ -1,0 +1,28 @@
+{
+	"name": "cacti-themes",
+	"title": "Cacti Themes",
+	"description": "A curated set of user interface for use with Cacti 1.1.x"
+	"version": "1.0",
+	"homepage": "http://github.com/netniv/cacti-themes",
+	"author": {
+		"name": "Mark Vinten (netniV)",
+	},
+	"maintainers": [
+		{
+			"name": "Mark Vinten",
+			"email": "netniv@hotmail.com",
+			"url": ""
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/netniv/cacti-themes.git"
+	},
+	"bugs": "https://github.com/netniv/cacti-themes/issues/",
+	"license": "MIT",
+	"dependencies": {},
+	"devDependencies": {
+		"cacti": "1.1.29"
+	},
+	"keywords": []
+}
